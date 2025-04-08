@@ -27,7 +27,6 @@ Capacidad de pasajeros
 
 Mostrar los datos ingresados en formato claro:
 
-Copy
 La marca que ha ingresado es: XXXX
 El modelo que ha ingresado es: XXXX
 La cilindrada que ha ingresado es: XXXX
@@ -43,7 +42,6 @@ Documentación completa del código
 Gestión del proyecto en GitHub
 
 📂 Estructura del Proyecto
-Copy
 src/
 └── RegistroVehicular/
     ├── Vehiculo.java          # Clase modelo para vehículos
@@ -51,15 +49,11 @@ src/
     └── README.md              # Documentación
 ⚙️ Compilación y Ejecución
 Compilar:
-
-bash
-Copy
 javac RegistroVehicular/Main.java RegistroVehicular/Vehiculo.java
-Ejecutar:
 
-bash
-Copy
+Ejecutar:
 java RegistroVehicular/Main
+
 📅 Cronograma (Primera Iteración)
 Actividad	Fecha	Estado
 Análisis de requerimientos	03/04/2025	✅ Completado
